@@ -181,17 +181,3 @@
 - [ ] Alignment and interpretability research trends  
 - [ ] Efficiency benchmarking and LLMOps  
 
-
-## 14. Personal Project Milestones
-
-- [ ] Build a GPT-style transformer from scratch  
-- [ ] Implement BPE tokenization manually  
-- [ ] Train a mini language model on WikiText  
-- [ ] Fine-tune a small model using LoRA / QLoRA  
-- [ ] Implement RLHF or DPO on a custom dataset  
-- [ ] Deploy your model via FastAPI / Gradio  
-- [ ] Create a RAG chatbot using FAISS or Chroma  
-- [ ] Quantize and serve with vLLM or TensorRT  
-- [ ] Benchmark latency, throughput, and memory usage  
-- [ ] Document and open-source your project  
-

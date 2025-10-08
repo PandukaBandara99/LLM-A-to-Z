@@ -50,12 +50,12 @@
 - [✅] Pretraining objectives (Causal LM, Masked LM, Next Sentence Prediction)  
 - [✅] Dataset curation, cleaning, and tokenization  
 - [✅] DataLoader and batching strategies for large-scale corpora  
-- [ ] Optimizer scheduling (Warmup, Cosine decay, One-cycle)  
-- [ ] Mixed precision training (FP16, BF16)  
-- [ ] Gradient checkpointing and accumulation  
-- [ ] Distributed training (DataParallel, FSDP, ZeRO, DeepSpeed)  
-- [ ] Evaluation metrics: Perplexity, BLEU, ROUGE, Accuracy  
-- [ ] Logging and experiment tracking (TensorBoard, WandB, MLflow)  
+- [✅] Optimizer scheduling (Warmup, Cosine decay, One-cycle)  
+- [✅] Mixed precision training (FP16, BF16)  
+- [✅] Gradient checkpointing and accumulation  
+- [✅] Distributed training (DataParallel, FSDP, ZeRO, DeepSpeed)  
+- [✅] Evaluation metrics: Perplexity, BLEU, ROUGE, Accuracy  
+- [✅] Logging and experiment tracking (MLflow)  
 - [✅] Checkpointing and model saving best practices  
 
 
